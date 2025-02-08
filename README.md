@@ -8,7 +8,7 @@ This is a simple Python based wifi network scanner which allows you to discover 
 ## Usage
 Use git clone to gather the scripts.
 
-Create a conf.json file in the root directory of the projects with the following:
+Create a conf.json file in the root directory of the project with the following:
 
 ```
 {
